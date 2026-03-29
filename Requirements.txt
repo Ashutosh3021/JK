@@ -1,0 +1,9 @@
+blender
+manifold3d
+numpy
+trimesh
+scipy
+pyglet<2
+scikit-image
+shapely
+scikit-learn
