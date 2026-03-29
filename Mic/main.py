@@ -1,0 +1,1 @@
+# gets the input from the user and sends it to the model for processing
