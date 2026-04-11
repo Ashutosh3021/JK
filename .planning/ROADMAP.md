@@ -13,13 +13,11 @@
 - [ ] Verify text prompt → response flow
 
 ## Phase 1.2 — Mic - PC Audio Capture *(Week 2)*
-- [ ] Create `Mic/main.py` - capture audio from PC microphone
-- [ ] Implement VAD (Voice Activity Detection)
-- [ ] Buffer audio chunks
+- [x] Create `Mic/main.py` - capture audio from PC microphone
+- [x] Implement VAD (Voice Activity Detection)
+- [x] Buffer audio chunks
 
-**Plans:** 1 plan
-
-- [ ] 01.2-01-PLAN.md — Mic module with audio capture, VAD, and buffering
+**Plans:** 1 plan ✅ DONE
 
 ## Phase 1.3 — Speaker - Audio Playback/TTS *(Week 2)*
 - [ ] Create `Speaker/main.py` - play audio through PC speakers
