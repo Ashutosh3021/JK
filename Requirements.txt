@@ -1,9 +1,13 @@
 blender
 manifold3d
-numpy
 trimesh
 scipy
 pyglet<2
 scikit-image
 shapely
 scikit-learn
+pyttsx3>=2.5
+gtts>=3.0.0
+numpy>=1.24.0
+simpleaudio>=1.0.4
+sounddevice>=0.4.6
